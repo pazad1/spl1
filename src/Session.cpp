@@ -80,3 +80,7 @@ Session::~Session() {
     delete(this->actionInput);
     //delete the vectors
 }
+
+void Session::setInputForWatch(int id) {
+    this->actionInput[0]=id;
+}

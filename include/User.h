@@ -8,6 +8,7 @@
 #include <map>
 class Watchable;
 class Session;
+using namespace std;
 
 class User{
 public:
