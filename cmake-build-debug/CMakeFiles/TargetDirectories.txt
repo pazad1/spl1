@@ -1,0 +1,3 @@
+/home/adi/CLionProjects/spl1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/adi/CLionProjects/spl1/cmake-build-debug/CMakeFiles/spl1.dir
+/home/adi/CLionProjects/spl1/cmake-build-debug/CMakeFiles/edit_cache.dir
